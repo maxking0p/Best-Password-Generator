@@ -7,7 +7,7 @@ print(".")
 time.sleep(1)
 print("..")
 time.sleep(1)
-pass_char = "AaBbCcDdEeFfGgHhIiJjKkLlMmNnOoPpQqRrSsTtUuVvWwXxYyZz123456789)(*&^%$#@!"
+pass_char = "AaBbCcDdEeFfGgHhIiJjKkLlMmNnOoPpQqRrSsTtUuVvWwXxYyZz123456789)(*,.:&^%$#@!"
 user_input = int(input("bro how much pass.. do you wanna generate for your, whatever. :- "))
 pass_length = int(input(" and what will be the password lenth:- "))
 if user_input == 1:
